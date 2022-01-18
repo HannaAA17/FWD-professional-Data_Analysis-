@@ -1,0 +1,17 @@
+https://numpy.org/doc/stable/reference/arrays.datetime.html#basic-datetimes
+https://stackoverflow.com/questions/56794101/stacked-bar-plot-from-dataframe-using-groupby
+https://www.kaggle.com/joniarroba/noshowappointments
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.day_name.html   #pandas.Series.dt.day_name
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.weekday.html
+https://pandas.pydata.org/pandas-docs/version/0.21/generated/pandas.DatetimeIndex.weekday_name.html
+https://note.nkmk.me/en/python-pandas-version/
+https://numpy.org/doc/stable/reference/generated/numpy.mean.html
+https://www.geeksforgeeks.org/adding-labels-to-histogram-bars-in-matplotlib/
+https://matplotlib.org/stable/api/axes_api.html#id20
+https://pandas.pydata.org/docs/reference/api/pandas.Series.plot.bar.html
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html  #pandas.DataFrame.plot
+https://pandas.pydata.org/docs/reference/api/pandas.Series.plot.line.html
+https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xticks.html  #examples-using-matplotlib-axes-axes-set-xticks
+https://stackoverflow.com/questions/10998621/rotate-axis-text-in-python-matplotlib
+https://stackoverflow.com/questions/12444716/how-do-i-set-the-figure-title-and-axes-labels-font-size-in-matplotlib
+https://matplotlib.org/stable/tutorials/text/text_props.html
